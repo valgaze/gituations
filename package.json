@@ -1,0 +1,24 @@
+{
+  "name": "gituations",
+  "version": "1.0.0",
+  "description": "Starter repo with sticky gituations",
+  "main": "index.js",
+  "scripts": {
+    "rebuild": "cd scripts && ./rebuild.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valgaze/gituations.git"
+  },
+  "keywords": [
+    "git",
+    "tutorial",
+    "gituation"
+  ],
+  "author": "Victor Algaze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valgaze/gituations/issues"
+  },
+  "homepage": "https://github.com/valgaze/gituations#readme"
+}
