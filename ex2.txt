@@ -3,3 +3,4 @@ b
 c
 d
 e
+Ex2, squash commits up to a and replace the final commit message with 'Ex2, Added a bunch of letters'
