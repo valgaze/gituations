@@ -1,12 +1,7 @@
 #!/usr/bin/env bash
 
+## Presume running from scripts/
 cd ..
-
-
-## Need some way to guarantee we're in a folder called gituationks
-## Also check if git is installed
-echo $PWD -----we need to do something about this-----
-echo 1234
 
 root=$PWD
 
